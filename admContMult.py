@@ -1,7 +1,5 @@
-#Consigna del desafio integrador
-#En este proyecto crearas un programa que permita gestionar y visualizar contenido multimedia. Utilizaras conceptos como
-#listas, diccionarios, mapeo y filtrado para crear un sistema que permita agregar contenido, registrar visualizaciones, 
-#mapear titulos, filtrar por genero y mostrar el contenido mas visualizado.
+#Crear un programa que permita gestionar y visualizar contenido multimedia. Utilizar listas, diccionarios, mapeo y filtrado para crear un sistema que
+#permita agregar contenido, registrar visualizaciones, mapear titulos, filtrar por genero y mostrar el contenido mas visualizado.
 
 #Se debe utilizar una lista de diccionarios para almacenar la informacion de cada elemento de contenido. Cada diccionario
 #representara un elemento de contenido y contendra claves como titulo, genero, duracion y visualizaciones.
